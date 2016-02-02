@@ -7,7 +7,7 @@ title: Japan day fifteen – Shimokitaza, Monorail and Zojoji
 ![Picture](https://f001.backblaze.com/file/unpictures/2014-japan2400/06121223.jpg)
 Our second last day was spent in [Shimokitazawa](https://en.wikipedia.org/wiki/Shimokitazawa) which is a very "trendy" place. It contains of old buildings, lots of art and café after café. In other words: the perfect spot for us.
 
-<!--more-->
+<!-- more -->
 
 ![Picture](https://f001.backblaze.com/file/unpictures/2014-japan2400/06121213.jpg)
 We started the day with a beautiful cup of cappucino at [Bear Pond](http://www.bear-pond.com) coffee which was equally tasty.
