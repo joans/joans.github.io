@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Japan day fifteen – Shimokitaza, Monorail and Zojoji
+title: Japan day fifteen
+subtitle: Shimokitaza, Monorail and Zojoji
 ---
 
 
