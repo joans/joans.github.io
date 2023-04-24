@@ -1,7 +1,7 @@
 ---
-title: About Aidan Charles Powell
+title: About Jonas Purmann
 layout: about.njk
-name: Aidan Charles Powell
+name: Jonas Purmann
 image: '/images/me.jpeg'
 ---
 
