@@ -1,8 +1,6 @@
 ---
 layout: home
-title: 'Eleventy Duo'
+title: 'Home'
 ---
 
-# Jonas Purmann
-
-A data-centric developer with a passion for photography.
+Welcome to my site, check out the [about](about) page or see what I [wrote recently](blog). Anyways, make yourself at home!

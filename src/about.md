@@ -5,10 +5,12 @@ name: Jonas Purmann
 image: '/images/me.jpeg'
 ---
 
-Aidan Charles Powell is a 23-year-old health centre receptionist who enjoys watching television, eating out and social media. He is generous and giving, but can also be very rude and a bit lazy.
+Hello, I am Jonas Purmann and I am interested in building
 
-He is a Jedi who defines himself as using the force. He has a degree in medicine. He is a vegetarian. He is obsessed with vintage dresses.
+- Data pipelines
+- Automations of all sorts
+- Web Projects
 
-He grew up in a middle class neighbourhood. After his mother died when he was young, he was raised by his father
+Right now, I am working in Python (Pandas), SQL, Ruby on Rails. In the past, I also worked with Minitab and I am a great enthusiast of Design of Experiments. 
 
-He is currently married to Maureen Erika Quinn. Maureen is 13 years older than him and works as a sales assistant.
+You can reach me at mail[at]jonas[dot]place.
