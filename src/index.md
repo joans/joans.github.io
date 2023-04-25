@@ -3,4 +3,4 @@ layout: home
 title: 'Home'
 ---
 
-Welcome to my site, check out the [about](about) page or see what I [wrote recently](blog). Anyways, make yourself at home! 
+A site about photography, travel and all things tech. Check what I [wrote recently](blog) or find out more [about me](about). Anyways, make yourself at home! 
