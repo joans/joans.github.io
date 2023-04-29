@@ -16,10 +16,7 @@ Yesterday, we arrived in Tokyo. It was a quite stressful day and I didn't have m
 
 Today however was different.
 
-<!-- Below, you can find a map of the places we visited during our first two days.
-
-<script>window.wanderlogEmbedKeys=window.wanderlogEmbedKeys||[];window.wanderlogEmbedKeys.push('ipgoeoyijw');window.wanderlogEmbedOptions={"alwaysShowRouteLines":true,"version":2};!function(){var c=document.querySelectorAll("script"),r=!1;if(c.forEach((function(c){"https://wanderlog.com/embed.js"===c.src&&(r=!0)})),!r){var t=document.createElement("script");t.async=!0,t.src="https://wanderlog.com/embed.js",document.body.appendChild(t)}}();</script><div id="Wanderlog__mapEmbed_ipgoeoyijw" style="display: block; width: 100%"><div style="font-size: smaller; margin-bottom: 8px">Places mapped by <a href="https://wanderlog.com/" target="_blank" rel="noopener">Wanderlog, a trip planner</a> on <a href="https://apps.apple.com/us/app/wanderlog/id1476732439" target="_blank" rel="noopener">iOS</a> and <a href="https://play.google.com/store/apps/details?id=com.wanderlog.android" target="_blank" rel="noopener">Android</a></div></div> -->
-
+> Check out an interactive Map of the places we visited [here](https://wanderlog.com/view/ipgoeoyijw/japan-trip/shared). I will update this map as we continue our Journey.
 
 We started today in Ginza, to check out the Flagship Store of Muji, a quite famous department store where we bought a nail scissor (or something close to it, surprinsingly hard to find nail scissors in Japan).
 ![image](/images/japan2/2023-04-29_121510_00.JPG)
