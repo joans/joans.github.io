@@ -6,7 +6,7 @@ date: '2023-04-24'
 tags: [travel]
 ---
 
-![Picture of Cherry Blossoms](/images/japan0/2023-03-25_171013_00.jpg)
+![Picture of Cherry Blossoms](/images/japan00/2023-03-25_171013_00.jpg)
 
 In about 60 hours from now, I will take a plane to Japan.
 It has been about seven years since I last stepped foot in this beautiful country.
