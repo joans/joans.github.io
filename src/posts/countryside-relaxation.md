@@ -6,7 +6,7 @@ date: '2023-05-04'
 tags: [travel]
 ---
 
-This post is about the last two days of our journey in Japan. In day 6, we spent the rest of the day in Magome and then travelled to the Japanese countryside. Today, we just relaxed a lot.
+This post is about the last two days of our journey in Japan. On day 6, we spent the rest of the day in Magome and then travelled to the Japanese countryside. Today (day 7), we just relaxed a lot.
 # Day 6 - Magome
 
 Yesterday, we started the day in Magome-Juku. The original plan was to catch a bus in the next larger city, Nakatsugawa and then go to the countryside from there. But as we realised, this bus also goes through Magome-Juku… So we rebooked the bus from Magome-Juku leaving at 3 PM. So we had to pass the day in Magome somehow. We had a great coffee at [Hillbilly Coffe](https://www.google.com/maps/place/HillBilly+Coffee+Company/@35.5251473,137.5631691,17z/data=!3m1!4b1!4m6!3m5!1s0x601cb6fd476935ed:0x5b18e4a4d4bb7679!8m2!3d35.525143!4d137.565744!16s%2Fg%2F11dxsvnwbn) (an actual Hipster Coffee Place in a historic town… how great is that?) which served me one of the best cappucinos I ever had.
