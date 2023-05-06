@@ -22,7 +22,7 @@ We also visitied a [Gassho-Zukuri](https://en.wikipedia.org/wiki/Minka) house an
 - All the houses were built without a single nail.
 
 ![Gassho-Zukuri House in Ainokura](/images/japan09/2023-05-06_112732_00.JPG)
-We walked to Ainokura, which is one of three Gokayama villages that you can visit. Ainokura is medium-sized compared to the other two villages. It has about 20 [Gassho-Zukuri](https://en.wikipedia.org/wiki/Minka) houses in total. In the [Gassho-Zukuri](https://en.wikipedia.org/wiki/Minka) houses in Ainokura, people are actually still living in. Some houses are used as accomodations for tourists, others are used as museums or restaurants.
+We walked to Ainokura, which is one of three Gokayama villages that you can visit. Ainokura is medium-sized compared to the other two villages. It has about 20 [Gassho-Zukuri](https://en.wikipedia.org/wiki/Minka) houses in total. In some of the [Gassho-Zukuri](https://en.wikipedia.org/wiki/Minka) houses in Ainokura, people are actually still living in. Some houses are used as accomodations for tourists, others are used as museums or restaurants.
 ![Mountain Panorama in Ainokura](/images/japan09/2023-05-06_105746_00.jpg)
 There are not only [Gassho-Zukuri](https://en.wikipedia.org/wiki/Minka) houses in Ainokura. It also has other, non-historic buildings like the one pictured above. As you can see, the surrounding mountains make up for a beautiful backdrop of the whole village.
 ![Ainokura View](/images/japan09/2023-05-06_115409_00.JPG)
