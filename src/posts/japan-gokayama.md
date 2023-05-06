@@ -13,7 +13,7 @@ Today, we checked out the UNESCO World heritage site that is Gokayama. We went t
 ![Exile house](/images/japan09/2023-05-06_091834_00.jpg)
 Small house in the [Gassho-Zukuri](https://en.wikipedia.org/wiki/Minka) style that was used as an exile house for people that misbehaved in the village to expel them from the community. This hut is the only exile hut remaining in Japan, it is [just a replica though](https://www.mlit.go.jp/tagengo-db/en/R1-00124.html).
 ![Inside the Gassho-Zukuri house](/images/japan09/2023-05-06_093031_00.JPG)
-We also visitied a [Gassho-Zukuri](https://en.wikipedia.org/wiki/Minka) house and saw the insides of it. These houses are quite spacious but they also had to fulfill a lot of functions. This is what we learned about the houses:
+We also visitied a [Gassho-Zukuri](https://en.wikipedia.org/wiki/Minka) house and saw the insides of it. These houses are quite spacious but they also had to fulfill a lot of functions. This is what we learned about the house that we visited:
 
 - It housed more than 20 people.
 - It was used to keep cattle as well as people.
