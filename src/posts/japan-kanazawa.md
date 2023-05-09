@@ -25,11 +25,11 @@ Kanazawa is extremely green. One upside of having a lot of precipitation, I gues
 After about 15 minutes of walking, we reached the Samurai District, Nagamachi. In this district, a lot of the historical places where the Samurai (the highest cast of the ancient Japanese society) lived.
 ![Alley in Nagamachi, the samurai district](/images/japan10/2023-05-07_133827_00.JPG)
 The rain made for some interesting views of this district. Not a lot of people where around and Esther and me were in photography heaven. We took so many pictures.
-![Fishes in a Samurai House](/images/japan10/2023-05-07_143556_00.JPG)
+![Fishes in a Samurai House](/images/japan10/2023-05-07_143556_00.jpg)
 We also visited a traditional Samurai house, Nomura-ke. In contrast to a lot of the Samurai-houses in Japan, this one was still in the state it was in, when the Samurai lived in it. The garden of the house was extremely beautiful with Koi fishes, a waterfall, lots of pretty plants and so on. We partook in a tea ceremony which was just wonderful in this setting.
 ![Modern architecture in Kanazawa](/images/japan10/2023-05-07_145319_00.JPG)
 Kanazawa also has some interesting modern architecture. In this shot, I like the reflection of the surfaces that reflect back light from different directions.
-![Pink staircase](/images/japan10/2023-05-07_145914_00.JPG)
+![Pink staircase](/images/japan10/2023-05-07_145914_00.jpg)
 This pink monochrome staircase is very mesmerizing. It just appeared out of nowhere and caught my attention immediately.
 ![Beautiful Mess in a back-alley](/images/japan10/2023-05-07_150244_00.JPG)
 In contrast to the very organized and clean look, that a lot of old and new buildings in Japan have, there is also this completely messy side of Japan. Those electricity metres, combined with the umbrella and random wires sticking out of the wall are something that I am not used to see in Germany.
