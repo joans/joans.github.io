@@ -29,7 +29,7 @@ We reached our transfer station just one minute late for us to catch our connect
 
 - Japanese people don't wear sunglasses (Of course some do but surprisingly little. During our trip I saw 2 Japanese people out of maybe 100 that would wear sunglasses and - as said - it was a sunny day today)
 - On our route, there was very little renewable energy and thinking back, I never noticed wind power in all my travels in Japan. Also, there was only one solar park on the whole route from Tokyo to the Japanese Alps.
-- People travelling to the Japanese Alps are serious about hiking. Most people wore functional clothes, hiking boots, some even walking/hiking sticks, even though the terrain in the Japanese alps is easy to moderate compared to most hiking routes in Austria/Switzerland/Norway…
+- People traveling to the Japanese Alps are serious about hiking. Most people wore functional clothes, hiking boots, some even walking/hiking sticks, even though the terrain in the Japanese alps is easy to moderate compared to most hiking routes in Austria/Switzerland/Norway…
 - There are amazing restrooms everywhere but most of them don't have soap in them. So prepare to bring your own sanitizer!
 
 ![image](/images/japan04/2023-05-01_162426_00.JPG)

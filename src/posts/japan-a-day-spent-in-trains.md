@@ -6,7 +6,7 @@ date: '2023-05-05'
 tags: [travel]
 ---
 
-We spent the day today travelling. We took the first train at 8:12 AM and reached our accomodation at 3:15 PM. So in total, we travelled over 7 hours. It was pretty warm as well with 26° C and a lot of local trains were not air conditioned. So it was an exhausting day and not many pictures were taken.
+We spent the day today traveling. We took the first train at 8:12 AM and reached our accomodation at 3:15 PM. So in total, we travelled over 7 hours. It was pretty warm as well with 26° C and a lot of local trains were not air conditioned. So it was an exhausting day and not many pictures were taken.
 
 
 > Check out an interactive Map of the places we visited [here](https://wanderlog.com/view/ipgoeoyijw/japan-trip/shared). I will update this map as we continue our Journey. This post is about Day 8.
