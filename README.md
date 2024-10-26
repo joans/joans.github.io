@@ -106,7 +106,7 @@ Sample frontmatter for generic pages.
 ```
 ---
 layout: base
-permalink: /generic-page
+permalink: "{{ page.lang }}/generic-page"
 title: Generic page
 ---
 

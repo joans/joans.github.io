@@ -24,9 +24,10 @@
         <a  href="{{ post.url }}">{{ post.data.title }}</a>
       </h3>
 
-      <p class="post-list__excerpt">{{ post.templateContent | excerpt | safe  }}</p>
-
-      <a class="post-list__read-more" href="{{ post.url }}">read article</a>
+      <p class="post-list__excerpt">
+        {{ post.templateContent | excerpt | safe  }}
+        <a class="post-list__read-more" href="{{ post.url }}">read more</a>
+      </p>
     </li>
   {% endfor %}
 </ul>

@@ -1,7 +1,7 @@
 ---
 title: Tokyo, first 48 hours
 description: First 48 hours in Japan
-permalink: posts/{{ title | slug }}/index.html
+permalink: "{{ page.lang }}/posts/{{ title | slug }}/index.html"
 date: '2023-04-29'
 tags: [travel]
 ---
