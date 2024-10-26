@@ -38,6 +38,12 @@ module.exports = function (eleventyConfig) {
       : '';
   });
 
+  module.exports = async function (eleventyConfig) {
+    const { EleventyI18nPlugin } = await import("@11ty/eleventy");
+  
+    eleventyConfig.addPlugin(EleventyI18nPlugin);
+  }
+
   eleventyConfig.addShortcode('bundledjs', function () {
     return manifest['main.js']
       ? `<script src="${manifest['main.js']}"></script>`
