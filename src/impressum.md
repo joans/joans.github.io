@@ -7,7 +7,7 @@ layout: base.njk
 <h2 id="m46">Diensteanbieter</h2>
 <h2 id="m56">Kontaktmöglichkeiten</h2>
 
-<img src="/images/1.png" width="200px" style="width:200px;" />
+<img src="/images/1.png" width="200px" style="width:200px;" alt="about me" />
 
 <h2 id="m3589">Audiovisuelle Mediendienste</h2><p>Sitzland: Deutschland.</p>
 <p>Zuständige Regulierungs-, bzw. Aufsichtsbehörde: Medienanstalt Hamburg / Schleswig-Holstein (MA HSH), <a href="https://www.ma-hsh.de/" target="_blank">https://www.ma-hsh.de/</a></p>
