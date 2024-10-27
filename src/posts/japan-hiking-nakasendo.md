@@ -1,7 +1,7 @@
 ---
 title: Hiking the Nakasendo
 description: Hiking in the Japanese Alps
-date: '2023-05-02'
+date: 2023-05-02
 tags: [travel]
 coverimage: /images/japan05/2023-05-02_181021_00.JPG
 ---

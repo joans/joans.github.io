@@ -1,7 +1,7 @@
 ---
 title: A day spent in trains
 description: We travelled for over 7 hours to reach our next destination in Japan
-date: '2023-05-05'
+date: 2023-05-05
 tags: [travel]
 coverimage: /images/japan08/2023-05-05_145906_00.jpg
 ---

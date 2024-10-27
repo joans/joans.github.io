@@ -1,7 +1,7 @@
 ---
 title: What we have been up to in the last few days
 description: Kyoto, Osaka, Tokushima and further into Shikoku!
-date: '2023-05-13'
+date: 2023-05-13
 tags: [travel]
 coverimage: '/images/japan16/2023-05-10_114822_00.JPG'
 ---
