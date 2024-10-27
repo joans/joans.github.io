@@ -30,7 +30,6 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(syntaxHighlight);
 
   eleventyConfig.setDataDeepMerge(true);
-  eleventyConfig.addPassthroughCopy({ 'src/images': 'images' });
   eleventyConfig.setBrowserSyncConfig({ files: [manifestPath] });
 
   eleventyConfig.addShortcode('bundledcss', function () {
@@ -56,7 +55,7 @@ module.exports = function (eleventyConfig) {
 		// formats: ["auto"],
 
 		// optional, output image widths
-		widths: [2500],
+		widths: [2000],
 
 		// optional, attributes assigned on <img> override these values.
 		defaultAttributes: {
