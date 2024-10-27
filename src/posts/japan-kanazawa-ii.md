@@ -1,9 +1,9 @@
 ---
 title: Kanazawa, then Kyoto
 description: Maybe Kanazawa is overhyped?
-permalink: posts/{{ title | slug }}/index.html
 date: '2023-05-09'
 tags: [travel]
+coverimage: '/images/japan11/2023-05-08_105119_00.jpg'
 ---
 
 I will do my best to summarize the last 48 hours. We spent half a day in Kanazawa. After about 24 hours in Kanazawa, we felt that we had seen all that there was to see in Kanazawa. Then we left Kanazawa and went to Kyoto. There, we were mesmerized by the beauty of the city, the friendliness of Japanese people and just _how many tourists can fit in one city_ (It's way more tourists than we saw during Golden Week).

@@ -1,9 +1,9 @@
 ---
 title: To the Japanese Alps
 description: Leaving Tokyo
-permalink: posts/{{ title | slug }}/index.html
 date: '2023-05-01'
 tags: [travel]
+coverimage: /images/japan04/2023-05-01_073306_00.JPG
 ---
 
 ![View from our hotel window](/images/japan04/2023-05-01_073306_00.JPG)

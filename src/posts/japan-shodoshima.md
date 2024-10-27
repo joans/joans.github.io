@@ -1,9 +1,9 @@
 ---
 title: Shodoshima
 description: An Island in the middle of the Japanese inland sea
-permalink: posts/{{ title | slug }}/index.html
 date: '2023-05-17'
 tags: [travel]
+coverimage: '/images/japan19/2023-05-15_140918_00.JPG'
 ---
 
 Right now, we are sitting on a ferry leaving Shōdoshima, an Island in the Japanese Inland sea. We spent the last 48 hours on this beautiful island.  

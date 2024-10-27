@@ -1,9 +1,9 @@
 ---
 title: Going back to Japan
 description: I am going (back) to Japan soon and I am pretty excited
-permalink: posts/{{ title | slug }}/index.html
 date: '2023-04-24'
 tags: [travel]
+coverimage: /images/japan00/2023-03-25_171013_00.jpg
 ---
 
 ![Picture of Cherry Blossoms](/images/japan00/2023-03-25_171013_00.jpg)
