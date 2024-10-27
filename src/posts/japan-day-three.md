@@ -1,7 +1,6 @@
 ---
 title: Last day in Tokyo
 description: The last day in Tokyo
-permalink: posts/{{ title | slug }}/index.html
 date: '2023-04-30'
 tags: [travel]
 ---

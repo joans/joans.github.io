@@ -1,7 +1,6 @@
 ---
 title: Kanazawa, then Kyoto
 description: Maybe Kanazawa is overhyped?
-permalink: posts/{{ title | slug }}/index.html
 date: '2023-05-09'
 tags: [travel]
 ---

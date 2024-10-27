@@ -1,7 +1,6 @@
 ---
 title: A day spent in trains
 description: We travelled for over 7 hours to reach our next destination in Japan
-permalink: posts/{{ title | slug }}/index.html
 date: '2023-05-05'
 tags: [travel]
 ---

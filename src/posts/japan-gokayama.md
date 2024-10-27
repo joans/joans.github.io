@@ -1,7 +1,6 @@
 ---
 title: Gokayama
 description: One day at a UNESCO world heritage site in Japan
-permalink: posts/{{ title | slug }}/index.html
 date: '2023-05-06'
 tags: [travel]
 ---
