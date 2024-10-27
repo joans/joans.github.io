@@ -1,7 +1,7 @@
 ---
 title: Last day in Tokyo
 description: The last day in Tokyo
-date: '2023-04-30'
+date: 2023-04-30
 tags: [travel]
 coverimage: /images/japan03/2023-04-30_095756_00.JPG
 ---

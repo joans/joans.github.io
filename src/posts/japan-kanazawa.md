@@ -1,7 +1,7 @@
 ---
 title: Kanazawa, Part I
 description: Finally, back to a city again
-date: '2023-05-07'
+date: 2023-05-07
 tags: [travel]
 coverimage: /images/japan10/2023-05-07_132802_00.jpg
 ---

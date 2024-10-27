@@ -1,7 +1,7 @@
 ---
 title: Shodoshima
 description: An Island in the middle of the Japanese inland sea
-date: '2023-05-17'
+date: 2023-05-17
 tags: [travel]
 coverimage: '/images/japan19/2023-05-15_140918_00.JPG'
 ---
