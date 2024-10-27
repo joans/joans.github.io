@@ -3,6 +3,7 @@ title: Kanazawa, Part I
 description: Finally, back to a city again
 date: '2023-05-07'
 tags: [travel]
+coverimage: /images/japan10/2023-05-07_132802_00.jpg
 ---
 
 Golden week is finally over! It's time to go back to the tourist hotspots. Our first hotspot is Kanazawa. A city that I did not know that much about. Apparently, before and during the Edo Period, this city was pretty rich and thus has a lot of very interesting sights to see!

@@ -3,6 +3,7 @@ title: Last day in Tokyo
 description: The last day in Tokyo
 date: '2023-04-30'
 tags: [travel]
+coverimage: /images/japan03/2023-04-30_095756_00.JPG
 ---
 
 Tonight, we felt the Jetlag for the first time for real. We both couldn't sleep until 2AM. Either way, we woke up at 9AM to get used to the Japanese Time. The Sun in Japan rises before 5AM and sets shortly after 6PM, so there is not much time to enjoy the daylight if you get up too late.

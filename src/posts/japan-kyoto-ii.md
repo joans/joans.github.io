@@ -3,6 +3,7 @@ title: What we have been up to in the last few days
 description: Kyoto, Osaka, Tokushima and further into Shikoku!
 date: '2023-05-13'
 tags: [travel]
+coverimage: '/images/japan16/2023-05-10_114822_00.JPG'
 ---
 
 Things got a bit overwhelming in the last few days. Spending time in cities is awesome but also comes with the drawback of not having any free time in the evenings because there is so much going on. We had two more lovely days in Kyoto then went to Osaka and Tokushima. Now we are back in the countryside, this time we are in Shikoku, Japan's smallest and least touristy main island!

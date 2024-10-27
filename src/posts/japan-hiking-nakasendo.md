@@ -3,6 +3,7 @@ title: Hiking the Nakasendo
 description: Hiking in the Japanese Alps
 date: '2023-05-02'
 tags: [travel]
+coverimage: /images/japan05/2023-05-02_181021_00.JPG
 ---
 
 We  left our Minshuku without breakfast to hurry to the Narai Train Station at 8:30 AM. There was only one train leaving at 8:40 AM and the next one was leaving at after 11 AM. Luckily, we got our train and rode it for 1:30 hours to Nagiso. From there, the hiking started.

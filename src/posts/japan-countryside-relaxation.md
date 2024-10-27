@@ -3,6 +3,7 @@ title: Relaxing in the Japanese Countryside
 description: After spending time in popular Tourist Destinations, we went to the countryside where not many tourists go.
 date: '2023-05-04'
 tags: [travel]
+coverimage: /images/japan07/2023-05-04_121544_00.JPG
 ---
 
 This post is about the last two days of our journey in Japan. On day 6, we spent the rest of the day in Magome and then travelled to the Japanese countryside. Today (day 7), we just relaxed a lot.

@@ -50,6 +50,14 @@
   color: rgb(41, 41, 41);
 }
 
+.post-list_coverimage {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  width: 100%;
+  object-fit: cover;
+  height: 400px; /* Adjust the height as needed */
+}
+
 .post-list__title a:hover {
   /* color: var(--accent); */
   text-decoration: underline;

@@ -3,6 +3,7 @@ title: Gokayama
 description: One day at a UNESCO world heritage site in Japan
 date: '2023-05-06'
 tags: [travel]
+coverimage: /images/japan09/2023-05-06_125909_00.JPG
 ---
 
 Today, we checked out the UNESCO World heritage site that is Gokayama. We went to the village of Ainokura where we saw traditional [Gassho-Zukuri](https://en.wikipedia.org/wiki/Minka)-houses. It was a relaxed day at the countryside.

@@ -3,6 +3,7 @@ title: Hiking Mount Tsurugi
 description: A very pretty mountain in the midst of Iya Valley
 date: '2023-05-15'
 tags: [travel]
+coverimage: "/images/japan17/2023-05-14_181232_00.JPG"
 ---
 
 When planning our journey in Japan, we wanted to go on a "proper" hike. This hike was to Tsurugi San (Mount Tsurugi). To get there, we had to drive for about 2 hours (the distance was not far, about 40 km but the roads are windy and speed limits are low). On our way there, we stopped several times to have a look at local landmarks and marvel at the nature surrounding us.

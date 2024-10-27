@@ -10,7 +10,9 @@
           <span>{{ post | readingTime }} read</span>
         </div>
 
-        <div class="post-list__tags">
+      {% if post.data.coverimage %}
+        <img src="{{ post.data.coverimage | safe }}" class="post-list_coverimage" alt="{{post.data.title}} cover image">
+      {% endif %}
           {% for tag in post.data.tags %}
             {%- if collections.tagList.indexOf(tag) != -1 -%}
               {% set tagUrl %}/tags/{{ tag }}/{% endset %}
