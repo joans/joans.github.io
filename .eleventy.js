@@ -59,7 +59,7 @@ module.exports = function (eleventyConfig) {
 
 		// optional, attributes assigned on <img> override these values.
 		defaultAttributes: {
-			loading: "lazy",
+			// loading: "lazy", // don't lazy-load on GitHub Pages, it's too slow
 			decoding: "async",
 		},
 	});
