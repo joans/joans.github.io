@@ -25,9 +25,11 @@ We ate a small breakfast at the guest house and headed off to the first proper d
 ![First trip to the oldest onsen in Japan](/images/2024-11-10-first-japan-post/2024-11-08_132009_00.jpeg)
 The bridge leading to the onsen was inspiration to a famous Miyazaki movie: Spirited Away. The atmosphere was pretty magical there.
 ![Onsen Town](/images/2024-11-10-first-japan-post/2024-11-08_132908_00.jpeg)
-The town itself also kind of reminded me of the first scenes of the movie where the main characters parents eat food at a marked and turn into pigs.
+The town itself also kind of reminded me of the first scenes of the movie where the main characters parents eat food at a market and turn into pigs.
 ![Next onsen town: Kusatsu Onsen](/images/2024-11-10-first-japan-post/2024-11-08_161041_00.jpeg)
 We reached our final destination around 3pm after driving through lots of scenic roads: Kusatsu Onsen. Kusatsu Onsen is a famous onsen town that is popular with Japanese tourists. We didn't see many western tourists there at all. Above, you can see the main "attraction" on the main square of the town. The hot spring water flows from the mountains through the town and then falls down in this waterfall that you see here. The whole town has manhole covers which have steam rising from them from the hot spring water flowing under them. This makes for a quite magical atmosphere, especially when the outside temperatures are a bit lower.
+
+Since the onsen water has a high sulfur content, the smell is hard to get used to at first. It smells of rotten eggs everywhere.
 
 The high mineral content of the spring water colors the areas it touches in blue teal, creating some unique looks (see picture above).
 ![Kusatsu Onsen at night](/images/2024-11-10-first-japan-post/2024-11-08_175438_00.jpeg)
