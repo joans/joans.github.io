@@ -8,7 +8,7 @@ coverimage: /images/japan10/2023-05-07_132802_00.jpg
 
 Golden week is finally over! It's time to go back to the tourist hotspots. Our first hotspot is Kanazawa. A city that I did not know that much about. Apparently, before and during the Edo Period, this city was pretty rich and thus has a lot of very interesting sights to see!
 
-Kanazawa is called the Seatlle of Japan (because of a lot of rain/wind) and today, it gave us exactly that: A lot of rain. The rain didn't even stop for one second.
+Kanazawa is called the Seattle of Japan (because of a lot of rain/wind) and today, it gave us exactly that: A lot of rain. The rain didn't even stop for one second.
 
 > Check out an interactive Map of the places we visited [here](https://wanderlog.com/view/ipgoeoyijw/japan-trip/shared). I will update this map as we continue our Journey. This post is about Day 10.
 

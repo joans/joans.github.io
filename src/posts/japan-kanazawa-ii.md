@@ -29,7 +29,7 @@ We also went to the Kenrokuen-Garden (it was not as amazing as all the guides we
 # Kyoto
 We took the train to Kyoto around 3pm and reached it right before sunset.
 ![Impression of Kyoto at Sunset](/images/japan11/2023-05-08_182752_00.jpg)
-Kyoto has a grid like layout of streets and is comparably flat (even though it is surrounde by mountains on three sides), so shots like this are possible on a lot of streets.
+Kyoto has a grid like layout of streets and is comparably flat (even though it is surrounded by mountains on three sides), so shots like this are possible on a lot of streets.
 
 In the evening, we went to a Okonomiyaki-Restaurant (Japanese Pancake). It was delicious! Later, we checked out the bar-scene in Kyoto. 
 
