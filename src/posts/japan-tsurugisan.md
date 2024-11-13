@@ -2,7 +2,7 @@
 title: Hiking Mount Tsurugi
 description: A very pretty mountain in the midst of Iya Valley
 date: 2023-05-15
-tags: [travel]
+tags: [travel, photo, japan]
 coverimage: "/images/japan17/2023-05-14_181232_00.JPG"
 ---
 

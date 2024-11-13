@@ -2,7 +2,7 @@
 title: Relaxing in the Japanese Countryside
 description: After spending time in popular Tourist Destinations, we went to the countryside where not many tourists go.
 date: 2023-05-04
-tags: [travel]
+tags: [travel, photo, japan]
 coverimage: /images/japan07/2023-05-04_121544_00.JPG
 ---
 

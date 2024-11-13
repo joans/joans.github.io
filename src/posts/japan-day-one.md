@@ -2,7 +2,7 @@
 title: Tokyo, first 48 hours
 description: First 48 hours in Japan
 date: 2023-04-29
-tags: [travel]
+tags: [travel, photo, japan]
 coverimage: /images/japan02/2023-04-29_165545_00.jpg
 ---
 

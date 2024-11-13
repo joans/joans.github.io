@@ -2,7 +2,7 @@
 title: Sado Island
 description: An Island with a split mountain
 date: 2024-11-11
-tags: [travel]
+tags: [travel, photo, japan]
 coverimage: /images/2024-11-11-sado-island/2024-11-10_133604_00.jpeg
 ---
 

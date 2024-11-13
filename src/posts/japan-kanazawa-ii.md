@@ -2,7 +2,7 @@
 title: Kanazawa, then Kyoto
 description: Maybe Kanazawa is overhyped?
 date: 2023-05-09
-tags: [travel]
+tags: [travel, photo, japan]
 coverimage: '/images/japan11/2023-05-08_105119_00.jpg'
 ---
 

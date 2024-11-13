@@ -2,7 +2,7 @@
 title: To the Japanese Alps
 description: Leaving Tokyo
 date: 2023-05-01
-tags: [travel]
+tags: [travel, photo, japan]
 coverimage: /images/japan04/2023-05-01_073306_00.JPG
 ---
 

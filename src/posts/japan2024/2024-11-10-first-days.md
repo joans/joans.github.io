@@ -2,7 +2,7 @@
 title: Back to Japan again
 description: Autumn in Japan
 date: 2024-11-10
-tags: [travel]
+tags: [travel, photo, japan]
 coverimage: /images/2024-11-10-first-japan-post/2024-11-08_085153_00.jpeg
 ---
 
