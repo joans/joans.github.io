@@ -8,7 +8,7 @@ coverimage: /images/2024-11-11-sado-island/2024-11-10_133604_00.jpeg
 
 In the last blog post, I wrote about how we just about caught a ferry to Sado Island. What I omitted was this: We didn't actually bring a car to Sado Island. We kinda assumed it would be feasible to bring a car to the island via ferry. What we didn't check is the price to transport a car to the island. Now for the kicker: Transporting a semi-large car (which we sadly got from the rental company) would have cost us the equivalent of 240€. We were not ready to spend this amount on transporting a car to an island for just two days, so we left the car in Niigata in a parking garage and took off without it.
 
-> Check out an interactive Map of the places I visited [here](https://wanderlog.com/view/rvadlvcbrq/japan-fall-2024/shared). I will update this map as I continue the journey. This post is about day 3.
+>Check out an interactive map of the places I visited [here](https://wanderlog.com/view/rvadlvcbrq/japan-fall-2024/shared). I will update this map as I continue my journey. This post is about day 3.
 
 
 We were worried that the buses might not run on the weekend. Since it was a Saturday and we would be arriving quite late (after 6pm), we were afraid that we might not be able to catch the bus that would have taken us to our accommodation. We tried to call the bus company on Sado Island the morning of the trip, but with my limited Japanese it was quite difficult to find out if the bus was actually running or not. (A simple question like "When is the last bus from the port to xyz station?" in simple Japanese was answered with a good 30 seconds of... intermediate Japanese).

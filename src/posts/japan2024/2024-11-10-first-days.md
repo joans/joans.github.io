@@ -8,7 +8,7 @@ coverimage: /images/2024-11-10-first-japan-post/2024-11-08_085153_00.jpeg
 
 I am back in Japan! This time I chose November to see the beautiful fall colors.
 
-> Check out an interactive Map of the places I visited [here](https://wanderlog.com/view/rvadlvcbrq/japan-fall-2024/shared). I will update this map as I continue the journey. This post is about days 0-2.
+> Check out an interactive map of the places I visited [here](https://wanderlog.com/view/rvadlvcbrq/japan-fall-2024/shared). I will update this map as I continue my journey. This post is about days 0-2.
 
 I arrived a couple of days ago but so far had no time to document anything. This blog post is a write-up of the last three days.
 
