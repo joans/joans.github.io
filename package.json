@@ -23,7 +23,7 @@
     "postcss-color-mod-function": "^3.0.3",
     "postcss-import": "^16.1.0",
     "postcss-loader": "^8.1.1",
-    "postcss-preset-env": "^10.0.2",
+    "postcss-preset-env": "^11.2.0",
     "terser-webpack-plugin": "^5.3.10",
     "webpack": "^5.94.0",
     "webpack-cli": "^5.1.4",
