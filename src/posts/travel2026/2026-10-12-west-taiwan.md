@@ -1,7 +1,7 @@
 ---
 title: One week in Taiwan
 description: traveling western Taiwan
-date: 2026-10-12
+date: 2026-10-14
 tags: [travel, photo, taiwan]
 coverimage: /images/taiwan/2026-10-09_152824_00.JPG
 ---
