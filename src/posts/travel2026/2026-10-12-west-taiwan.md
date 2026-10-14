@@ -77,7 +77,7 @@ Breakfast is served from small food stalls with simple seating arrangements.
 The picture above shows a breakfast pancake, filled with vegetables and fake meat.
 Cost: 50 NTD = 1,39€
 
-![Menu where you mark your dishes with wax marker](/images/taiwan/2026-10-11_173304_00.JPG)
+![Menu where you mark your dishes with wax marker](/images/taiwan/2026-10-11_173304_00.jpg)
 How you order food in most of Taiwan: They hand out a laminated menu and you mark what you want with wax pens or semi-permanent marker. Never saw this system in use anywhere else around the world.
 
 ## Sun Moon Lake
