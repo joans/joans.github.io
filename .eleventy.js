@@ -26,7 +26,7 @@ const manifest = isDev
 
 module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(readingTime);
-  eleventyConfig.addPlugin(pluginRss);
+  eleventyConfig.addPlugin(pluginRss.rssPlugin);
   eleventyConfig.addPlugin(syntaxHighlight);
 
   eleventyConfig.setDataDeepMerge(true);
