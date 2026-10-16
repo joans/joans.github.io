@@ -4,8 +4,8 @@ const pluginRss = require('@11ty/eleventy-plugin-rss');
 const syntaxHighlight = require('@11ty/eleventy-plugin-syntaxhighlight');
 const { eleventyImageTransformPlugin } = require("@11ty/eleventy-img");
 const htmlmin = require('html-minifier')
-const fs = require('fs');
-const path = require('path');
+const fs = require('node:fs');
+const path = require('node:path');
 
 const isDev = process.env.ELEVENTY_ENV === 'development';
 const isProd = process.env.ELEVENTY_ENV === 'production'
@@ -57,11 +57,21 @@ module.exports = function (eleventyConfig) {
 		// optional, output image widths
 		widths: [2000],
 
+    // Generate into a directory that persists between CI runs
+		outputDir: "./.cache/img/",
+		// Public URLs still point at /img/
+		urlPath: "/img/",
+
 		// optional, attributes assigned on <img> override these values.
 		defaultAttributes: {
 			// loading: "lazy", // don't lazy-load on GitHub Pages, it's too slow
 			decoding: "async",
 		},
+	});
+
+	// After the build, copy the cached images into the output folder (./public)
+	eleventyConfig.on("eleventy.after", ({ dir }) => {
+		fs.cpSync(".cache/img", path.join(dir.output, "img"), { recursive: true });
 	});
 
   eleventyConfig.addFilter('excerpt', (post) => {

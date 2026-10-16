@@ -17,6 +17,14 @@ jobs:
           node-version-file: '.tool-versions'
           cache: 'yarn'
 
+      - name: Cache Eleventy images
+        uses: actions/cache@v4
+        with:
+          path: .cache
+          key: eleventy-img-${{ runner.os }}-${{ github.run_id }}
+          restore-keys: |
+            eleventy-img-${{ runner.os }}-
+
       - name: Install dependencies & build
         run: |
           yarn install
@@ -26,5 +34,5 @@ jobs:
         uses: peaceiris/actions-gh-pages@v4
         with:
           publish_dir: ./public
-          cname: jonas.place
+          cname: <sample-url>
           github_token: ${{ secrets.GITHUB_TOKEN }}
